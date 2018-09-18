@@ -1,5 +1,8 @@
 Apache Kafka
 =================
+
+[![](https://codescene.io/projects/3367/status.svg) Get more details at **codescene.io**.](https://codescene.io/projects/3367/jobs/latest-successful/results)
+
 See our [web site](http://kafka.apache.org) for details on the project.
 
 You need to have [Gradle](http://www.gradle.org/installation) and [Java](http://www.oracle.com/technetwork/java/javase/downloads/index.html) installed.
